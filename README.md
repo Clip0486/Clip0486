@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Ph.D student
-I'm interested in AI, Computer Vision.
+
+interested in AI, Computer Vision
 
 <!--
 **Clip0486/Clip0486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
